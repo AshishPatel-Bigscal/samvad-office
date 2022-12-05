@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "ashish@gmail.com",
+      "password": "123",
+      "contacts": [
+        {
+          "name": "Ashish Patel"
+        },
+        {
+          "name": "Shashwat Patel"
+        },
+        {
+          "name": "Ashish Manani"
+        },
+        {
+          "name": "parin Kareliya"
+        },
+        {
+          "name": "juhi Prajapati"
+        },
+        {
+          "name": "Urja Soni"
+        },
+        {
+          "name": "Jay soni"
+        }
+      ],
+      "chatHistory": [
+        {
+          "message": "dsadas",
+          "from": "ashish@gmail.com",
+          "to": "Shashwat Patel",
+          "time": "Dec 05 2022 07:59:43"
+        },
+        {
+          "message": "asd asdas",
+          "from": "ashish@gmail.com",
+          "to": "Shashwat Patel",
+          "time": "Dec 05 2022 07:59:45"
+        },
+        {
+          "message": "asdsadasd",
+          "from": "ashish@gmail.com",
+          "to": "Shashwat Patel",
+          "time": "Dec 05 2022 07:59:46"
+        },
+        {
+          "message": "asdsad",
+          "from": "ashish@gmail.com",
+          "to": "Shashwat Patel",
+          "time": "Dec 05 2022 07:59:49"
+        }
+      ]
+    }
+  ]
+}
